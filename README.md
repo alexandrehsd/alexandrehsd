@@ -89,6 +89,9 @@ This is my data science portfolio, feel free to fork the code and reach me out o
  <img height="150em" alt = "Alexandre Dias Stats" src="https://github-readme-stats.vercel.app/api?username=alexandrehsd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrehsd&layout=compact&langs_count=7&theme=algolia"/>
   
-  ![Snake animation](https://github.com/alexandrehsd/alexandrehsd/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexandrehsd/alexandrehsd/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexandrehsd/alexandrehsd/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/alexandrehsd/alexandrehsd/blob/output/github-contribution-grid-snake.svg"/>
+</picture>
 </div>
-
