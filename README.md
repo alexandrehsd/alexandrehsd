@@ -46,7 +46,7 @@ This is my data science portfolio, feel free to fork the code and reach me out.
 
 ### Computer Vision <a name="computervision"></a>
 
-- [Smiling Detection](https://github.com/alexandrehsd/Smiling-Detection)
+- [Smiling Detection](https://github.com/alexandrehsd/smiling-detection)
 - [Handwritten digits recognition](https://github.com/alexandrehsd/handwritten-digits-recognition)
 
 ### NLP <a name="nlp"></a>
