@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working as a Data Scientist at the Real Estate unicorn [QuintoAndar](https://www.quintoandar.com.br/)...
+- 🔭 I’m currently working as a Data Scientist at the Real Estate unicorn [QuintoAndar](https://www.quintoandar.com.br/)
 - 🌱 I’m currently learning Pytorch for NLP
 - 👯 I’m looking to collaborate on projects that challenge me as a data scientist
 - 💬 Read my [articles](https://medium.com/@alexandre.hsd)
