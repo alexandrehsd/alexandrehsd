@@ -1,25 +1,15 @@
-### Hi there 👋
-
-<!--
-**alexandrehsd/alexandrehsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi, I'm Alexandre Henrique 👋
 
-- 🔭 Data Scientist
-- 🌱 Studying Deep Learning
+<!-- **alexandrehsd/alexandrehsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started: -->
+
+- 🔭 I’m currently working as a Data Scientist at the Real Estate unicorn [QuintoAndar](https://www.quintoandar.com.br/)...
+- 🌱 I’m currently learning Pytorch for NLP
+- 👯 I’m looking to collaborate on projects that challenge me as a data scientist
+- 💬 Read my [articles](https://medium.com/@alexandre.hsd)
+- ⚡ Fun fact: I'm colorblind 😄
+- 📫 Connect with me:
 
 <div style="text-align:center">
   <a href="https://medium.com/@alexandre.hsd" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
@@ -84,7 +74,7 @@ This is my data science portfolio, feel free to fork the code and reach me out o
 
 <br></br>
 
-<!-- reference https://blog.arnabghosh.me/add-github-dark-snake-animation-readme --> 
+<!-- reference https://github.com/Platane/snk --> 
 <div align="center"> 
  <img height="150em" alt = "Alexandre Dias Stats" src="https://github-readme-stats.vercel.app/api?username=alexandrehsd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrehsd&layout=compact&langs_count=7&theme=algolia"/>
