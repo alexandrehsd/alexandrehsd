@@ -52,7 +52,8 @@ This is my data science portfolio, feel free to fork the code and reach me out.
 ### NLP <a name="nlp"></a>
 
 - [A sustainable development goal classifier (ASGARD)](https://github.com/alexandrehsd/asgard)
-
+- [Plagiarism detector](https://github.com/alexandrehsd/plagiarism-detector)
+  
 ### Deploy and MLops <a name="deply-and-mlops"></a>
 
 - [How to package a model](https://github.com/alexandrehsd/packaging-model)
